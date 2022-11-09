@@ -13,6 +13,7 @@ function App() {
 <Loginpage/>
 <Navbar/>
 <Helpcenter/>
+
  </div>
   )
 }
